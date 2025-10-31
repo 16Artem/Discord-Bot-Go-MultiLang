@@ -1,0 +1,10 @@
+help_title: "Help"
+help_description: |
+  Available commands:
+  - /help — show this help message.
+  - /settings lang:<ru|en> — change language for the server.
+
+settings_title: "Settings"
+settings_desc_lang_changed: "Language changed to %s."
+settings_desc_current_lang: "Current language: %s"
+error_no_permission: "You do not have permission to perform this action."

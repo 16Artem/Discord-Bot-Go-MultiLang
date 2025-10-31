@@ -1,0 +1,10 @@
+help_title: "Справка"
+help_description: |
+  Доступные команды:
+  - /help — показать эту справку.
+  - /settings lang:<ru|en> — сменить язык для сервера.
+
+settings_title: "Настройки"
+settings_desc_lang_changed: "Язык изменён на %s."
+settings_desc_current_lang: "Текущий язык: %s"
+error_no_permission: "У вас нет прав для выполнения этого действия."
